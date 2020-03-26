@@ -2,14 +2,13 @@
 title: Worlds
 description: Worlds of the Verses within The Symphony
 published: true
-date: 2020-03-26T20:53:44.599Z
+date: 2020-03-26T20:54:47.023Z
 tags: symphony, verses, worlds, azuun
 ---
 
-# Worlds
+# Azuun Verse
 
-## Azuun Verse
-### Muir
+## Muir
 The Primary world of the Frostgale setting.
 
 
@@ -20,42 +19,42 @@ The Primary world of the Frostgale setting.
 -Koras
 -Moradras
 
-### Cordyr
+## Cordyr
 **Moons:**
 -Faebralee
 -Eradnalee
 -Rhonas
 -Sonas
 
-### Hulyr
+## Hulyr
 **Moons:**
 -Dranalee
 -Lanalee
 -Vasnas
 
-### Rosphir 
+## Rosphir 
 **Moons:**
 -Khallanlee
 -Wayunlee
 -Tornas
 
-### Taganyr
+## Taganyr
 **Moons:**
 -Bramnas
 -Pogunas
 
-### Jauntir
+## Jauntir
 **Moons:**
 -Asundas
 
-### Umbramyr
+## Umbramyr
 **Moons:**
 -Combramas
 
-### Galantir
+## Galantir
 **Moons:**
 -Weyuum
 
-### Vedyr
+## Vedyr
 **Moons:**
 -Soluum
