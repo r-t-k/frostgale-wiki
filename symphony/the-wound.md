@@ -2,15 +2,15 @@
 title: The Wound
 description: Information regarding the Wound, the prime evil force within The Symphony
 published: true
-date: 2020-03-27T19:02:12.867Z
+date: 2020-03-27T19:53:19.363Z
 tags: symphony, symphony, verses, worlds, azuun, the wound
 ---
 
 # Summary
 
-The Wound seeks to corrupt the Source of Azuunand use it to corrupt other Verses. It must corrupt each planet to reach it. Muir is the strongest in magic, and last in the line of defense.
+The Wound seeks to corrupt the Source of Azuun and use it to corrupt other Verses. It must corrupt each planet to reach it. Muir is the strongest in magic, and last in the line of defense.
 
-The Wound is a Cataylst of The Symphony who betrayed The Maker.
+The Wound was a Cataylst of The Symphony who betrayed The Maker.
 
 # Origin
 
