@@ -2,7 +2,7 @@
 title: Overview
 description: Introduction to the multiverse called The Symphony
 published: true
-date: 2020-03-26T20:49:19.307Z
+date: 2020-03-27T19:32:27.947Z
 tags: symphony
 ---
 
@@ -46,6 +46,16 @@ The Servants (Bound Spirits and Angels)
 Lyrics of Creation (Sentient Creation)
 Notes of Creation (Physical world and non sentient life)
 
+
+# Verses
+
+Each verse contains both inhabited planets and unhabited planets all orbiting a Source. The source of each verse is a conduit and reflection of the Forces of the Symphony. A source is formed by a Binding Notation and a Lyrical Accompaniment. Catalysts and Shapers build the frame of a Verse while The Maker sings life into it.
+
+Each inhabited planet will have a number of moons corresponding with the strength of its connection to the source. 
+
+Moons are conduits and vessels of a source's power.
+
+More moons means stronger magic for a planet.
 
 
 
