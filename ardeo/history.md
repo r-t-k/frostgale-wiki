@@ -2,7 +2,7 @@
 title: History
 description: Histories of Ardeo
 published: true
-date: 2020-03-27T19:21:43.373Z
+date: 2020-03-27T19:23:45.354Z
 tags: ardeo, the empire
 ---
 
@@ -63,6 +63,7 @@ Among the three systems over the course of history, the major difference was who
 *The Age of Tenacity*
 - First heroes, founding of the Ardean Empire
 - Klauss, The Blaze of Ruin, Defeated at the hands of **Eihrul Dracarr, Dynus Oberskyr, Royce Azuremantle, Maelene Pharrshae, Viktor Arkos, Alexander Barrowbane, Tyzan Baenre, Tygan Baenre, Haedron, Jerrek Bandon, Randon VanKai, Artus Gilgaleam, and Durandon Orubar**. These heroes are immortalized as the Founders of The Empire, both in reference to the first and second incarnations of the Ardean Empire, though often only the names of the first six are mentioned. It's also very rare to find a complete listing of all the founders as both Baenres, Randon VanKai, Artus Gilgaleam, Durandon Orubar, and Haedron were officially struck from the records and censored from historical accounts under the reign of Emperor Issak Oberskyr. After the Eighth Age and Before the Eleventh age, few knew the truth. 
+- Realmpact signed, Empire of United Realms formed.
 
 
 
@@ -72,7 +73,10 @@ Among the three systems over the course of history, the major difference was who
 - Founding of Galewind Academy
 ## Third Age 1305AF to 3100AF
 *The Age of Wonders*
-- The Andrik Order, THE BLOOD CHALICE (war with Maghiss), floating cities.  
+- The Order Arxyr formed
+- THE BLOOD CHALICE (war with Maghiss)
+- Magical innovation
+- World discovery and technology expands
 
 ## Fourth Age 3101AF to 3664AF
 *The Age of Suffering*
