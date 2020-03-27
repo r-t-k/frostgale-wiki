@@ -2,7 +2,7 @@
 title: Overview
 description: Introduction to the multiverse called The Symphony
 published: true
-date: 2020-03-27T19:32:27.947Z
+date: 2020-03-27T19:38:41.776Z
 tags: symphony
 ---
 
@@ -26,18 +26,18 @@ Mystic Plane - spirit realm
 Weeping Plane (also known as Damnation) - hell
 
 
-## Hierarchy of Symphonic entities
+## Hierarchy of Symphonic Entities
 
 **The Maker**
-Symphonic Forces
-Source Reflections (Azohar**)
+Symphonic Forces (powers given to the multiverse from The Maker)
+Source Reflections (permanent conduits of Symphonic forces bound by the rules pertaining to a particular verse)
 
 **Fabric of Expression**
-Catalysts
-Shapers
+Catalysts (an embodiment of a single symphonic power, players of instruments in the Symphony)
+Shapers (an embodiment of the intellect and curiosity of The Maker, the composers of music within the Symphony)
 
 **Fabric of Existence**
-Gods and The Ascendant
+The Ascendant (formal gods or those that have in their own power surpassed the veil of mortality, each has the ability to create their own sub-plane in the Ascendant Plane) 
 Aspects of the Divine
 Chosen of the Divine
 The Servants (Bound Spirits and Angels)
