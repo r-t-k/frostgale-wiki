@@ -2,14 +2,16 @@
 title: Worlds
 description: Worlds of the Verses within The Symphony
 published: true
-date: 2020-03-27T19:43:48.952Z
+date: 2020-03-27T19:52:33.784Z
 tags: symphony, verses, worlds, azuun
 ---
 
 # Azuun Verse
+**Source Reflection: Azohar**
 
 ## Muir
 The Primary world of the Frostgale setting.
+
 
 
 **Moons:**
@@ -22,6 +24,8 @@ The Primary world of the Frostgale setting.
 	- His spirit was contained within Tygan Baenare. He allowed Tygan to pull him from the sky in an effort to destroy Tygan's betrayers.
 
 ## Cordyr
+
+
 **Moons:**
 -Faebralee
 -Eradnalee
