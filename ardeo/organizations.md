@@ -2,7 +2,7 @@
 title: Organizations and Groups
 description: Ardean Organziations
 published: true
-date: 2020-03-27T20:17:02.971Z
+date: 2020-03-27T20:18:12.396Z
 tags: ardeo, the empire, the order
 ---
 
@@ -37,4 +37,7 @@ Tetrarchs consist of the four most powerful lords in a realm, the supreme of whi
 ### The Fifth Tetrarch (Barrowbane)
 ### The Sixth Tetrarch (Azurem)
 
+
+# The Order Arxyr
+Also known as the Andrik Order or The Order of The Arxaar
 
