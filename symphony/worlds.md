@@ -2,12 +2,12 @@
 title: Worlds
 description: Worlds of the Verses within The Symphony
 published: true
-date: 2020-03-27T19:52:33.784Z
+date: 2020-03-27T19:52:45.690Z
 tags: symphony, verses, worlds, azuun
 ---
 
 # Azuun Verse
-**Source Reflection: Azohar**
+**Source Reflection: Azohar, the sun**
 
 ## Muir
 The Primary world of the Frostgale setting.
