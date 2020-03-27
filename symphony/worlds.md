@@ -2,7 +2,7 @@
 title: Worlds
 description: Worlds of the Verses within The Symphony
 published: true
-date: 2020-03-26T20:54:57.519Z
+date: 2020-03-27T19:43:48.952Z
 tags: symphony, verses, worlds, azuun
 ---
 
@@ -13,11 +13,13 @@ The Primary world of the Frostgale setting.
 
 
 **Moons:**
--Noralee
--Tymalee
--Janas
--Koras
--Moradras
+- Noralee (pure white)
+- Tymalee (pale violet)
+- Janas (pale orange)
+- Koras (pale blue)
+- Moradras (crimson)
+- ~~Eraednas~~ (pale green)
+	- His spirit was contained within Tygan Baenare. He allowed Tygan to pull him from the sky in an effort to destroy Tygan's betrayers.
 
 ## Cordyr
 **Moons:**
