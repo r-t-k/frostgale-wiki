@@ -2,20 +2,13 @@
 title: The Wound
 description: Information regarding the Wound, the prime evil force within The Symphony
 published: true
-date: 2020-03-26T21:00:18.369Z
+date: 2020-03-27T19:02:12.867Z
 tags: symphony, symphony, verses, worlds, azuun, the wound
 ---
 
 # Summary
-Most magic is divine, except recently on Muir with the Exodus of the Gods following the Hubris of the Patrons with the ending of the Great War. Men and Elves usurped the Gods and badly replaced them. Arcane magic is now most prevalent. In reality the Gods are dead, slain with the assistance of the Wound
-
-The Theocracy of Turin on Muir follows a corrupted religion twisted to follow the Wound and use his magic without the people knowing the truth.
 
 The Wound seeks to corrupt the Source of Azuunand use it to corrupt other Verses. It must corrupt each planet to reach it. Muir is the strongest in magic, and last in the line of defense.
-
-The origin of the Ardean Empire was not the defeat of a monstrous dragon. It was the discovery of The Wound who created the Dragon and the force of Corruption who attempted to shatter the planet. Klauss, is a story meant to shroud the truth in glory and hide the terror and pain that actually formed the empire. 
-
-The Order began on another planet within this Verse with the initial purpose of stopping the Wound.
 
 The Wound is a Cataylst of The Symphony who betrayed The Maker.
 
