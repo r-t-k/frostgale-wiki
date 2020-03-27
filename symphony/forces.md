@@ -2,11 +2,12 @@
 title: Symphonic Forces
 description: Details on the magic and powers within The Symphony
 published: true
-date: 2020-03-27T19:51:00.794Z
+date: 2020-03-27T19:51:09.616Z
 tags: symphony, magic, forces, symphonic forces
 ---
 
 # Forces
+** Section is a Work in Progress
 
 ## Harmony
 
@@ -20,7 +21,7 @@ tags: symphony, magic, forces, symphonic forces
 
 ## Grace
 
-** Section is a Work in Progress
+
 
 # Catalysts
 
