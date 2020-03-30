@@ -2,7 +2,7 @@
 title: Symphonic Forces
 description: Details on the magic and powers within The Symphony
 published: true
-date: 2020-03-30T17:05:29.826Z
+date: 2020-03-30T17:13:01.401Z
 tags: symphony, magic, forces, symphonic forces
 ---
 
@@ -19,19 +19,28 @@ tags: symphony, magic, forces, symphonic forces
 
 ## Truth
 
-# Symmetries & Transitions
+# Symmetries
 
-## Atonality
+## Atonality (Discord & Harmony)
 
-## Destruction
+## Destruction (Discord & Passion)
 
-## Creation
+## Corruption (Discord & Wisdom)
 
-## Enlightenment
+## Manipulation (Discord & Truth)
 
-## Passage
+## Creation (Harmony & Passion)
 
-## Restoration
+## Restoration (Harmony & Wisdom)
+
+## Binding (Harmony & Truth)
+
+## Enchantement (Passion & Wisdom)
+
+## Righteousness (Passion & Truth)
+
+## Enlightenment (Wisdom & Truth)
+
 
 
 # Catalysts
