@@ -2,7 +2,7 @@
 title: Symphonic Forces
 description: Details on the magic and powers within The Symphony
 published: true
-date: 2020-03-27T19:51:09.616Z
+date: 2020-03-30T17:05:29.826Z
 tags: symphony, magic, forces, symphonic forces
 ---
 
@@ -13,14 +13,25 @@ tags: symphony, magic, forces, symphonic forces
 
 ## Discord
 
-## Reverance
-
 ## Passion
 
-## Whimsy
+## Wisdom
 
-## Grace
+## Truth
 
+# Symmetries & Transitions
+
+## Atonality
+
+## Destruction
+
+## Creation
+
+## Enlightenment
+
+## Passage
+
+## Restoration
 
 
 # Catalysts
