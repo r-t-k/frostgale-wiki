@@ -2,7 +2,7 @@
 title: Worlds
 description: Worlds of the Verses within The Symphony
 published: true
-date: 2020-04-04T23:34:50.456Z
+date: 2020-04-04T23:35:07.830Z
 tags: symphony, verses, worlds, azuun
 ---
 
