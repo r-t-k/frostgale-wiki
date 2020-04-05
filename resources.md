@@ -2,7 +2,7 @@
 title: D&D Campaign Resources
 description: 
 published: true
-date: 2020-03-26T19:16:42.480Z
+date: 2020-04-05T01:03:53.189Z
 tags: 
 ---
 
@@ -58,7 +58,7 @@ XP -> https://donjon.bin.sh/d20/xp/index.cgi
 ### Charts
 
 Tavern Drinks -> https://www.reddit.com/r/d100/comments/7xyzgb/lets_build_tavern_signature_drinks/
-
+Costs (need to update to reflect Ardean economy): https://drive.google.com/file/d/11cn7EmHDQpCzYWqqQ4BTMbmAA61oxtTv/view
 
 ---
 
