@@ -2,7 +2,7 @@
 title: Nine Evils
 description: 
 published: true
-date: 2019-08-17T03:13:15.362Z
+date: 2020-04-12T21:03:47.942Z
 tags: 
 ---
 
@@ -14,4 +14,4 @@ tags:
 - Mandrakul "Famine" 6
 - Ulgaal "the Heinous" 7
 - Djek Blackmist 8
-- Tygan Baenre 9
+- Amasma "The Plague" 9
